@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "myawesomerealmapp",
+    "slug": "myawesomerealmapp",
+    "version": "1.0.0",
+    "sdkVersion": "45.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "ios": {
+      "bundleIdentifier": "OlegZagor.MyAwesomeRealmApp"
+    },
+    "android": {
+      "package": "OlegZagor.MyAwesomeRealmApp"
+    }
+  }
+}
